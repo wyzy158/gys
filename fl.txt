@@ -755,15 +755,8 @@
             "api": "https://dadiapi.com/api.php",
             "searchable": 1,
             "quickSearch": 1
-        },
-        {
-            "key": "cc",
-            "name": "请勿相信视频中的广告",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0
         }
+      
     ],
     "parses": [
         {
