@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "哔哩",
-      "name": "公众号《科技天微》：仅自用测试 禁传播贩卖！",
+      "name": "仅自用测试 禁传播贩卖！",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
