@@ -14,7 +14,7 @@
     },
     {
       "key": "csp_Kugou",
-      "name": "TG-酷狗音乐",
+      "name": "酷狗音乐",
       "type": 3,
       "api": "csp_Kugou",
       "jar": "./Yoursmile.jar",
@@ -30,7 +30,7 @@
     },
     {
       "key": "js_车载MV",
-      "name": "TG-车载音乐",
+      "name": "车载音乐",
       "type": 3,
       "api": "./drpy2.min.js",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "yinyue",
-      "name": "TG-榜单音乐",
+      "name": "榜单音乐",
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 1,
@@ -53,7 +53,7 @@
     },
     {
       "key": "分类音乐",
-      "name": "TG-分类音乐",
+      "name": "分类音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -63,7 +63,7 @@
     },
     {
       "key": "hipy_js_KTV歌厅[听]",
-      "name": "TG-明星歌厅",
+      "name": "明星歌厅",
       "type": 3,
       "api": "./drpy2.min.js",
       "searchable": 1,
@@ -74,7 +74,7 @@
     },
     {
       "key": "TAOIktv",
-      "name": "TG-明星备用",
+      "name": "明星备用",
       "type": 3,
       "api": "csp_WexIktv",
       "jar": "./wex.txt",
@@ -83,7 +83,7 @@
     },
     {
       "key": "舞蹈音乐",
-      "name": "TG-舞蹈音乐",
+      "name": "舞蹈音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -93,7 +93,7 @@
     },
     {
       "key": "哟哟音乐",
-      "name": "TG-动感哟哟",
+      "name": "动感哟哟",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -103,7 +103,7 @@
     },
     {
       "key": "酷奇",
-      "name": "TG-酷奇MV",
+      "name": "酷奇MV",
       "type": 3,
       "api": "./drpy2.min.js",
       "ext": "./酷奇MV.js",
@@ -117,7 +117,7 @@
     },
     {
       "key": "吾爱演唱会",
-      "name": "TG-哔哩演唱",
+      "name": "哔哩演唱",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -127,14 +127,14 @@
     },
     {
       "key": "直播转点播",
-      "name": "TG-音乐点播",
+      "name": "音乐点播",
       "type": 3,
       "api": "./zbzdb.js",
       "ext": "http://www.jielifan.com/data/f_85446651.png"
     },
     {
       "key": "drpy_js_蜻蜓FM",
-      "name": "TG-蜻蜓FM",
+      "name": "蜻蜓FM",
       "type": 3,
       "api": "./drpy2.min.js",
       "ext": "./蜻蜓FM.js",
@@ -142,7 +142,7 @@
     },
     {
       "key": "hipy_js_种子音乐[听]",
-      "name": "TG-种子音乐",
+      "name": "种子音乐",
       "type": 3,
       "api": "./drpy3.min.js",
       "searchable": 1,
@@ -153,7 +153,7 @@
     },
     {
       "key": "hipy_js_贝乐虎[儿]",
-      "name": "TG-贝乐儿歌",
+      "name": "贝乐儿歌",
       "type": 3,
       "api": "./drpy3.min.js",
       "searchable": 1,
@@ -164,7 +164,7 @@
     },
     {
       "key": "健身瑜伽",
-      "name": "TG-健身瑜伽",
+      "name": "健身瑜伽",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
