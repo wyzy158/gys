@@ -1,15 +1,6 @@
 {
   "spider": "./TG.jar",
   "wallpaper": "荧屏流光曲悠扬，心随律动梦徜徉",
-  "logo": "./java/logo.jpg",
-  "lives": [
-    {
-      "name": "TGlive",
-      "type": 0,
-      "playerType": 2,
-      "url": "./java/lib/yinyue.png"
-    }
-  ],
   "sites": [
     {
       "key": "哔哩",
