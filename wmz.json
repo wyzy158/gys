@@ -1,12 +1,11 @@
 {
-  "spider": "./9527.jar",
+  "spider": "./gys.jar",
   "wallpaper": "https://t.alcy.cc/fj",
-  "logo": "https://img.meituan.net/poiugc/018d4112d5aaf3d0982bb6bbc2bf71b2292451.gif",
-  "warningText": "资源来自网络，无任何盈利纯学习技术！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
+  "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🏖️防失联关注gzh:九月小小屋",
+      "name": "🏖️豆瓣精选",
       "type": 3,
       "api": "csp_Douban",
       "indexs": 1,
@@ -848,16 +847,7 @@
       "type": 3,
       "api": "./lib/aiting.py"
     },
-    {
-      "key": "枫叶音乐",
-      "name": "🍁枫叶丨音乐合集",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "kwms",
       "name": "🎶裤硪丨音乐合集",
@@ -1228,72 +1218,65 @@
       "changeable": 0
     }
   ],
-  "lives": [
-    {
-      "name": "💡林中的小屋",
-      "type": 1,
-      "url": "./lib/lzxw.txt",
-      "epg": "http://epg.52sw.top:668/?ch={name}&date={date},https://tv.mxdyeah.top/epgphp/t.xml.gz",
-      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
-    },
-    {
-      "name": "📺简单TV(EXO)",
-      "type": 0,
-      "url": "./lib/tv.txt",
-      "timeout": 10,
-      "playerType": 2,
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz,http://epg.51zmt.top:8000/e.xml,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz",
-      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0"
-    },
-    {
-      "name": "央视TV直播",
-      "type": 1,
-      "url": "./lib/iptv.txt"
-    },
-    {
-      "name": "中港TV直播",
-      "type": 1,
-      "url": "./lib/live.m3u"
-    },
-    {
-      "name": "咪咕TV直播",
-      "type": 1,
-      "url": "./lib/migu.txt"
-    },
-    {
-      "name": "🏡宫殿TV🏡",
-      "type": 0,
-      "url": "https://gongdian.top/tv/iptv",
-      "playerType": 1,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "月儿王子",
-      "type": 0,
-      "url": "./lib/zb.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-      "playerType": 1,
-      "timeout": 10
-    },
-    {
-      "name": "全飞扬",
-      "type": 0,
-      "url": "./lib/657d29be8e72802eb9dbff859e968e11.txt",
-      "timeout": 10,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "☁️风云直播☁️",
-      "url": "./lib/FYTV.m3u",
-      "header": {
-        "User-Agent": "okhttp/5.1.0"
-      }
-    }
-  ],
+    "lives": [
+        {
+            "name": "咪咕直播",
+            "type": 0,
+            "url": "http://124.77.202.8:49155"
+        },
+        {
+            "name": "咪咕直播2",
+            "type": 0,
+            "url": "http://27.18.216.122:55555"
+        },
+        {
+            "name": "咪咕直播3",
+            "type": 0,
+            "url": "http://120.24.194.118:10002"
+        },
+        {
+            "name": "裤佬直播",
+            "type": 0,
+            "url": "https://seep.eu.org/https://live.445569.xyz/live.m3u"
+        },
+		 {
+            "name": "Kimentanm",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "综合直播",
+            "type": 0,
+            "playerType": 2,
+            "url": "http://193.123.86.190:14888/TV/iptv.php",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
+        {
+            "name": "虎牙",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+            "ua": ""
+        },
+        {
+            "name": "斗鱼",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "ua": ""
+        },
+        {
+            "name": "YY",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "ua": ""
+        },
+        {
+            "name": "BL",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/bililive.m3u",
+            "ua": ""
+        }
+    ],
   "parses": [
     {
       "name": "聚合",
