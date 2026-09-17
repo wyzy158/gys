@@ -1256,20 +1256,23 @@
       "changeable": 0
     }
   ],
-  "lives": [
-    {
-      "name": "咪咕TV直播",
-      "type": 1,
-      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
-    },
-    {
-      "name": "☁️风云直播☁️",
-      "url": "http://iptv.4666888.xyz/FYTV.m3u",
-      "header": {
-        "User-Agent": "okhttp/5.1.0"
-      }
-    }
-  ],
+"lives": [
+        {
+            "name": "咪咕直播",
+            "type": 0,
+            "url": "http://219.151.182.121:7788"
+        },
+		{
+            "name": "咪咕直播2",
+            "type": 0,
+            "url": "http://119.233.255.62:1234"
+        },
+		{
+            "name": "咪咕直播3",
+            "type": 0,
+            "url": "http://39.107.95.182:3000"
+        }
+    ],
   "parses": [
     {
       "name": "聚合",
