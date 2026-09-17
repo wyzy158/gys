@@ -9,7 +9,7 @@
       "type": 3,
       "api": "csp_Douban",
       "indexs": 1,
-      "sear
+      "searchable": 0
     {
       "key": "配置中心",
       "name": "📥网盘丨配置中心",
