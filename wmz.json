@@ -72,22 +72,6 @@
       "timeout": 60
     },
     {
-      "key": "wogglong",
-      "name": "💯龙龙丨4K臻彩",
-      "type": 3,
-      "api": "csp_WoggLong",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://xn--4yqy17f.xn--yi7aa.vip:3155"
-        ]
-      },
-      "timeout": 60
-    },
-    {
       "key": "花卷真彩",
       "name": "💯花卷丨4K臻彩",
       "api": "csp_HJZhenCai",
@@ -233,22 +217,6 @@
       "filterable": 1
     },
     {
-      "key": "鸭社",
-      "name": "🦆鸭社丨4K光鸭",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://www.guangyashe.top"
-        ]
-      },
-      "timeout": 60
-    },
-    {
       "key": "移动",
       "name": "🌐移动丨4K免扫",
       "type": 3,
@@ -332,16 +300,6 @@
       "timeout": 60
     },
     {
-      "key": "天翼",
-      "name": "🔍天翼｜网盘搜索",
-      "type": 3,
-      "api": "csp_TianYiSo",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "timeout": 60
-    },
-    {
       "key": "趣盘",
       "name": "🔍趣盘｜网盘搜索",
       "type": 3,
@@ -349,22 +307,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "timeout": 60
-    },
-    {
-      "key": "123",
-      "name": "🌐123丨4K社区",
-      "type": 3,
-      "api": "csp_PanWebShare123",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "site": [
-          "https://123panfx.com",
-          "https://pan1.me"
-        ]
-      },
       "timeout": 60
     },
     {
@@ -621,9 +563,9 @@
       "key": "葫芦",
       "name": "🌓王林丨蓝光影视",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
       "ext": {
-        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "host": "https://wget.la/raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
         "key": "8R33VQSxzmCaHpEX",
         "init": "V122",
         "api": 2,
@@ -662,7 +604,7 @@
       "name": "🎡永乐｜蓝光影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/XBPQ/永乐影视.json"
+      "ext": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/XBPQ/永乐影视.json"
     },
     {
       "key": "1905",
@@ -734,7 +676,7 @@
       "key": "红果短剧",
       "name": "🍎红果丨短剧爽看",
       "type": 3,
-      "api": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/红果短剧.py",
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/红果短剧.py",
       "genre": "shortdrama"
     },
     {
@@ -776,7 +718,7 @@
       "key": "py聚合短剧",
       "name": "🍑短剧丨聚合短剧",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/短剧聚合2.py",
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/短剧聚合2.py",
       "changeable": 1
     },
     {
@@ -820,7 +762,7 @@
       "key": "爱听音乐",
       "name": "🎶爱听｜音乐歌曲",
       "type": 3,
-      "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/aiting.py"
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/aiting.py"
     },
     {
       "key": "枫叶音乐",
@@ -836,13 +778,13 @@
       "key": "kwms",
       "name": "🎶裤硪丨音乐合集",
       "type": 3,
-      "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/kuwo.py"
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/kuwo.py"
     },
     {
       "key": "音乐",
       "name": "🎶听海丨音乐合集",
       "type": 3,
-      "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/JS/tinghai.js",
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/JS/tinghai.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -901,7 +843,7 @@
       "key": "275听书",
       "name": "📖275听书｜小说听书",
       "type": 3,
-      "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/275听书.py"
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/py/275听书.py"
     },
     {
       "key": "博看听书",
@@ -952,7 +894,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/json/B站.png",
+        "json": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/json/B站.png",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
     },
@@ -965,7 +907,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/json/哔哩哔哩演唱会.json",
+        "n": "哔哩音乐",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -982,7 +924,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/json/哔哩哔哩听书.json",
+        "n": "哔哩听书",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -999,7 +941,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/json/哔哩哔哩相声.json",
+        "n": "哔哩相声",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -1016,7 +958,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/json/哔哩哔哩小品.json",
+        "n": "哔哩小品",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -1033,7 +975,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/json/哔哩哔哩戏曲.json",
+        "n": "哔哩戏曲",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -1050,7 +992,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/json/少儿教育.json",
+        "n": "少儿教育",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -1067,7 +1009,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/json/小学课堂.json",
+        "n": "小学课堂",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -1084,7 +1026,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/json/初中课堂.json",
+        "n": "初中课堂",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -1101,7 +1043,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/json/高中课堂.json",
+        "n": "高中课堂",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -1128,7 +1070,7 @@
       "name": "🪆养生｜知识学堂",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/XBPQ/养生堂.json",
+      "ext": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/master/XBPQ/养生堂.json",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1263,7 +1205,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/json/share.json"
+      "ext": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/json/share.json"
     },
     {
       "key": "本地",
