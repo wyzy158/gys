@@ -1227,12 +1227,12 @@
         {
             "name": "咪咕直播",
             "type": 0,
-            "url": "http://1.29.152.13:7788"
+            "url": "http://101.34.244.15:12315"
         },
 		{
             "name": "咪咕直播2",
             "type": 0,
-            "url": "http://175.168.96.35:7788"
+            "url": "http://121.29.157.170:7788"
         },
 		{
             "name": "咪咕直播3",
@@ -1242,11 +1242,11 @@
 	    {    
 		    "name": "观影视直播",
             "type": 0,
-            "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
+            "url": "https://raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zyzb.txt",
             "playerType": 2
         }
     ],
-  "parses": [
+	"parses": [
     {
       "name": "聚合",
       "type": 3,
