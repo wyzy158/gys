@@ -2,10 +2,50 @@
     "spider": "./jar/1.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8",
     "wallpaper": "./img/12.jpg",
     "sites": [
-        
+          {
+            "name": "冬瓜动漫",
+            "key": "DMxigua",
+            "type": 3,
+            "api": "csp_DMxiguaAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "DMxigua",
+			"jar": "./jar/dm.jar"
+        },
         {
+            "name": "牛来动漫",
+            "key": "DMox",
+            "type": 3,
+            "api": "csp_DMoxAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+			"jar": "./jar/dm.jar"
+        },
+        {
+            "name": "青云动漫",
+            "key": "DMqingk",
+            "type": 3,
+            "api": "csp_DMqingkAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+			"jar": "./jar/dm.jar"
+        },
+        {
+            "name": "魔都动漫",
+            "key": "DMmodu",
+            "type": 3,
+            "api": "csp_DMmoduAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+			"jar": "./jar/dm.jar"
+        },
+		{
             "key": "Dm84",
-            "name": "🚌巴士┃动漫",
+            "name": "巴士动漫",
             "type": 3,
             "api": "csp_Dm84Guard",
             "timeout": 10,
@@ -15,7 +55,7 @@
         },
         {
             "key": "dr_兔小贝",
-            "name": "📚儿童┃启蒙",
+            "name": "儿童启蒙",
             "type": 3,
             "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
             "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
@@ -29,7 +69,7 @@
         },
         {
             "key": "少儿教育",
-            "name": "📚少儿┃教育",
+            "name": "少儿教育",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -45,7 +85,7 @@
         },
         {
             "key": "小学课堂",
-            "name": "📚小学┃课堂",
+            "name": "小学课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -61,7 +101,7 @@
         },
         {
             "key": "初中课堂",
-            "name": "📚初中┃课堂",
+            "name": "初中课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -77,7 +117,7 @@
         },
         {
             "key": "高中教育",
-            "name": "📚高中┃课堂",
+            "name": "高中课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
