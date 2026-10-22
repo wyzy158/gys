@@ -1599,6 +1599,24 @@
       "quickSearch": 1,
       "categories": []
     },
+	   
+   {
+    "key":"建安资源",
+    "name":"建安资源",
+    "type":1,
+    "api":"http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
+    "url":"https://jx.789jiexi.icu:4433/?url=",
+    "searchable":1,
+    "quickSearch":1
+   },
+   {
+    "key": "刺桐资源",
+    "name": "刺桐资源",
+    "type": 1, 
+    "api": "http://pg.cttv.vip/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1
+   },
     {
       "key": "555影视",
       "name": "555采集",
