@@ -2059,32 +2059,12 @@
     }
  ],
   "lives": [
-      {
-            "name": "咪咕直播",
-            "type": 0,
-            "url": "http://106.52.119.159:1234"
-        },
-	    {
-            "name": "咪咕直播1",
-            "type": 0,
-            "url": "http://106.53.151.222:5080"
-        },
-	    {
-           "name": "咪咕直播2",
-           "type": 0,
-           "url": "http://139.224.44.53:1234"
-       },
        {
-          "name": "咪咕直播3",
-          "type": 0,
-          "url": "http://123.115.202.110:5001"
-       },
-       {
-          "name": "咪咕直播4",
+          "name": "咪咕直播",
           "type": 0,
           "url": "http://www.52top.com.cn:678/downloads/migu.txt"
        },
-	   {    
+	    {    
 		    "name": "观影视直播",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zyzb.txt",
