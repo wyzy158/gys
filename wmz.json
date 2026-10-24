@@ -208,15 +208,6 @@
       "timeout": 60
     },
     {
-      "key": "盘链",
-      "name": "🅿️盘链丨网盘资源",
-      "api": "csp_PingLian",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Juying",
       "name": "💯聚影丨4K网盘",
       "type": 3,
