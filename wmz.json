@@ -1,5 +1,5 @@
 {
-  "spider": "./gys.jar;md5;afad65a24e267420799145db6cb37a4a",
+  "spider": "./gys.jar",
   "wallpaper": "https://t.alcy.cc/fj",
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
   "sites": [
@@ -24,20 +24,6 @@
       }
     },
     {
-      "key": "网盘分享",
-      "name": "🌐网盘丨资源库",
-      "type": 3,
-      "api": "csp_PanShare",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/json/share.json"
-    },
-    {
       "key": "指南",
       "name": "💿原盘｜4K_iso",
       "type": 3,
@@ -45,11 +31,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "site": [
-          "https://4kzn.cc"
-        ]
-      },
       "timeout": 60
     },
     {
@@ -100,8 +81,7 @@
       "filterable": 1,
       "ext": {
         "site": [
-          "https://www.hjzhencai.top",
-          "https://www.huanjuanwp.shop"
+          "https://www.hjzhencai.top"
         ]
       }
     },
@@ -116,27 +96,7 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://xsayang.fun",
           "http://38.76.197.172:12521"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "蜡笔",
-      "name": "💯蜡笔｜4K臻享",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.fmcf.fun",
-          "https://www.mmpanpan.site",
-          "http://tvpanpan.site",
-          "http://www.tvpanpan.site"
         ]
       },
       "timeout": 60
@@ -206,19 +166,46 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://xhban.xyz",
           "http://38.76.197.172:16969"
         ]
       },
       "timeout": 60
     },
     {
-      "key": "libvio",
-      "name": "💯立播丨4K网盘",
+      "key": "宅男网盘",
+      "name": "💯宅男丨网盘资源",
+      "api": "csp_ZhaiNan",
       "type": 3,
-      "api": "csp_Libvio",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sou4k",
+      "name": "💯搜4K丨网盘资源",
+      "api": "csp_Sou4K",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "SeedHub",
+      "name": "💯Seed丨网盘资源",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://sidhub.cc",
+          "https://seeduck.cc",
+          "https://hubdog.cc"
+        ]
+      },
+      "timeout": 60
     },
     {
       "key": "Juying",
@@ -249,56 +236,6 @@
       "filterable": 1,
       "changeable": 1,
       "timeout": 60
-    },
-    {
-      "key": "sou4k",
-      "name": "💯搜4K丨网盘资源",
-      "api": "csp_Sou4K",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "SeedHub",
-      "name": "💯Seed丨网盘资源",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://sidhub.cc",
-          "https://seeduck.cc",
-          "https://hubdog.cc"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "小丑",
-      "name": "🤡小丑丨4K网盘",
-      "type": 3,
-      "api": "csp_4KZhinan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": [
-          "https://4kxc.com"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "hdmoli",
-      "name": "🅾️HDmoli丨网盘",
-      "type": 3,
-      "api": "csp_HDMoli",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "移动",
@@ -598,6 +535,19 @@
       "filterable": 1
     },
     {
+      "key": "葫芦",
+      "name": "🌓王林丨蓝光影视",
+      "type": 3,
+      "api": "https://wget.la/raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
+      "ext": {
+        "host": "https://wget.la/raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "key": "8R33VQSxzmCaHpEX",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "天堂1",
       "name": "🎬电影天堂丨蓝光",
       "type": 3,
@@ -853,7 +803,7 @@
         "ratio": 1.0009
       }
     },
-   {
+	  {
       "key": "爱奇艺资源",
       "name": "爱奇艺采集",
       "type": 1,
@@ -1640,24 +1590,6 @@
       "quickSearch": 1,
       "categories": []
     },
-	   
-   {
-    "key":"建安资源",
-    "name":"建安资源",
-    "type":1,
-    "api":"http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
-    "url":"https://jx.789jiexi.icu:4433/?url=",
-    "searchable":1,
-    "quickSearch":1
-   },
-   {
-    "key": "刺桐资源",
-    "name": "刺桐资源",
-    "type": 1, 
-    "api": "http://pg.cttv.vip/api.php/provide/vod",
-    "searchable": 1,
-    "quickSearch": 1
-   },
     {
       "key": "555影视",
       "name": "555采集",
@@ -2117,7 +2049,7 @@
 	    {    
 		    "name": "观影视直播",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zyzb.txt",
+            "url": "https://gh-proxy.org//raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zyzb.txt",
             "playerType": 2
         }
     ],
